@@ -1,0 +1,15 @@
+/Users/igornikulin/Desktop/Учёба/C#_homework_007/task_03/bin/Debug/net6.0/task_03
+/Users/igornikulin/Desktop/Учёба/C#_homework_007/task_03/bin/Debug/net6.0/task_03.deps.json
+/Users/igornikulin/Desktop/Учёба/C#_homework_007/task_03/bin/Debug/net6.0/task_03.runtimeconfig.json
+/Users/igornikulin/Desktop/Учёба/C#_homework_007/task_03/bin/Debug/net6.0/task_03.dll
+/Users/igornikulin/Desktop/Учёба/C#_homework_007/task_03/bin/Debug/net6.0/task_03.pdb
+/Users/igornikulin/Desktop/Учёба/C#_homework_007/task_03/obj/Debug/net6.0/task_03.csproj.AssemblyReference.cache
+/Users/igornikulin/Desktop/Учёба/C#_homework_007/task_03/obj/Debug/net6.0/task_03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igornikulin/Desktop/Учёба/C#_homework_007/task_03/obj/Debug/net6.0/task_03.AssemblyInfoInputs.cache
+/Users/igornikulin/Desktop/Учёба/C#_homework_007/task_03/obj/Debug/net6.0/task_03.AssemblyInfo.cs
+/Users/igornikulin/Desktop/Учёба/C#_homework_007/task_03/obj/Debug/net6.0/task_03.csproj.CoreCompileInputs.cache
+/Users/igornikulin/Desktop/Учёба/C#_homework_007/task_03/obj/Debug/net6.0/task_03.dll
+/Users/igornikulin/Desktop/Учёба/C#_homework_007/task_03/obj/Debug/net6.0/refint/task_03.dll
+/Users/igornikulin/Desktop/Учёба/C#_homework_007/task_03/obj/Debug/net6.0/task_03.pdb
+/Users/igornikulin/Desktop/Учёба/C#_homework_007/task_03/obj/Debug/net6.0/task_03.genruntimeconfig.cache
+/Users/igornikulin/Desktop/Учёба/C#_homework_007/task_03/obj/Debug/net6.0/ref/task_03.dll
